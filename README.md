@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on basic GraphQL application with Apollo server and client rendered via Next.js
 
-This repository contains code and related materials for [introduction to GraphQL using Apollo server and client]() video.
+This repository contains code and related materials for [introduction to GraphQL using Apollo server and client](https://youtu.be/16h5FUF1acA) video.
 
 ## Project description
 
